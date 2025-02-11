@@ -70,7 +70,7 @@ void A3(string L[], vector<congViec> c, int tmp[], int dd[], int n, int k){
 }
 int main(){
 	int n = 6;
-	vector<congViec> c;
+	vector<congViec> c; 
 	string L[6] = {"Huong", "Hang", "Phuong", "Trang", "Ninh", "Nga"};
 	int tmp[6] = {0};
 	int dd[6] = {0};
